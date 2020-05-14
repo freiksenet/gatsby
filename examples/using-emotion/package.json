@@ -1,18 +1,18 @@
 {
   "name": "using-emotion",
   "private": true,
-  "description": "Gatsby example site using using-emotion",
+  "description": "@freiksenet/gatsby example site using using-emotion",
   "author": "Tegan Churchill <churchill.tegan@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
     "emotion": "^10.0.27",
     "emotion-server": "^10.0.27",
-    "gatsby": "^2.21.22",
-    "gatsby-plugin-emotion": "^4.3.1",
-    "gatsby-plugin-google-analytics": "^2.3.1",
-    "gatsby-plugin-offline": "^2.2.10",
-    "gatsby-plugin-react-helmet": "^3.3.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-plugin-emotion": "^4.3.1",
+    "@freiksenet/gatsby-plugin-google-analytics": "^2.3.1",
+    "@freiksenet/gatsby-plugin-offline": "^2.2.10",
+    "@freiksenet/gatsby-plugin-react-helmet": "^3.3.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1"
@@ -20,9 +20,9 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "serve": "@freiksenet/gatsby serve",
     "start": "npm run develop"
   }
 }

@@ -1,27 +1,27 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "@freiksenet/gatsby-starter-default",
+  "description": "@freiksenet/gatsby default starter",
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "latest",
-    "gatsby-image": "latest",
-    "gatsby-plugin-react-helmet": "latest",
-    "gatsby-plugin-sharp": "latest",
-    "gatsby-source-filesystem": "latest",
-    "gatsby-transformer-sharp": "latest",
+    "@freiksenet/gatsby": "latest",
+    "@freiksenet/gatsby-image": "latest",
+    "@freiksenet/gatsby-plugin-react-helmet": "latest",
+    "@freiksenet/gatsby-plugin-sharp": "latest",
+    "@freiksenet/gatsby-source-filesystem": "latest",
+    "@freiksenet/gatsby-transformer-sharp": "latest",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build --prefix-paths",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build --prefix-paths",
+    "develop": "@freiksenet/gatsby develop",
     "test": "jest --config=../jest.config.js gatsby-pipeline/"
   },
   "devDependencies": {

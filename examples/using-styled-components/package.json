@@ -1,16 +1,16 @@
 {
-  "name": "gatsby-example-using-styled-components",
+  "name": "@freiksenet/gatsby-example-using-styled-components",
   "private": true,
-  "description": "Gatsby example site using the styled components plugin",
+  "description": "@freiksenet/gatsby example site using the styled components plugin",
   "version": "2.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
-    "gatsby": "^2.21.22",
-    "gatsby-plugin-google-analytics": "^2.3.1",
-    "gatsby-plugin-offline": "^2.2.10",
-    "gatsby-plugin-react-helmet": "^3.3.1",
-    "gatsby-plugin-styled-components": "^3.3.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-plugin-google-analytics": "^2.3.1",
+    "@freiksenet/gatsby-plugin-offline": "^2.2.10",
+    "@freiksenet/gatsby-plugin-react-helmet": "^3.3.1",
+    "@freiksenet/gatsby-plugin-styled-components": "^3.3.1",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -19,13 +19,13 @@
     "styled-components": "^5.1.0"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

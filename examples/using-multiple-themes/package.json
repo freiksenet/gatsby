@@ -1,23 +1,23 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "@freiksenet/gatsby-starter-hello-world",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
+    "serve": "@freiksenet/gatsby serve",
+    "clean": "@freiksenet/gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
     "@pauliescanlon/gatsby-mdx-embed": "0.0.19",
-    "gatsby": "^2.21.22",
-    "gatsby-theme-blog": "^1.5.22",
-    "gatsby-theme-notes": "^1.3.22",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-theme-blog": "^1.5.22",
+    "@freiksenet/gatsby-theme-notes": "^1.3.22",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },

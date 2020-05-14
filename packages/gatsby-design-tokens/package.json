@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-design-tokens",
+  "name": "@freiksenet/gatsby-design-tokens",
   "version": "2.0.5",
-  "description": "Gatsby Design Tokens",
+  "description": "@freiksenet/gatsby Design Tokens",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "source": "src/index.js",
@@ -31,7 +31,7 @@
   "devDependencies": {
     "agadoo": "^1.1.0",
     "cross-env": "^5.2.1",
-    "microbundle": "gatsbyjs/microbundle#brotli-try-catch-plus-dist",
+    "microbundle": "@freiksenet/gatsbyjs/microbundle#brotli-try-catch-plus-dist",
     "preval.macro": "^3.0.0"
   },
   "engines": {

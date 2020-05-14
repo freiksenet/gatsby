@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-cypress",
+  "name": "@freiksenet/gatsby-cypress",
   "version": "0.4.1",
   "description": "Cypress tools for Gatsby projects",
   "main": "index.js",
@@ -20,18 +20,18 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "keywords": [
-    "gatsby",
+    "@freiksenet/gatsby",
     "cypress",
     "cypress.io",
     "integration"
   ],
   "peerDependencies": {
     "cypress": "^3.1.0",
-    "gatsby": "^2.0.0-rc.13"
+    "@freiksenet/gatsby": "^2.0.0-rc.13"
   },
   "readme": "README.md",
   "scripts": {

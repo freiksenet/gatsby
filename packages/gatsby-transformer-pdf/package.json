@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-transformer-pdf",
-  "description": "Gatsby transformer plugin for pdf files",
+  "name": "@freiksenet/gatsby-transformer-pdf",
+  "description": "@freiksenet/gatsby transformer plugin for pdf files",
   "version": "1.3.2",
   "author": "Alex Munoz <almunozdo@gmail.com>",
   "bugs": {
@@ -14,19 +14,19 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-pdf#readme",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin",
     "pdf"
   ],
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "@freiksenet/gatsby": "^2.0.0"
   },
   "repository": {
     "type": "git",

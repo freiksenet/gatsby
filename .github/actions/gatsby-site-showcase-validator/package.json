@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-site-showcase-validator-action",
+  "name": "@freiksenet/gatsby-site-showcase-validator-action",
   "version": "1.0.0",
   "main": "index.js",
   "private": true,

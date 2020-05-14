@@ -1,11 +1,11 @@
 {
   "name": "using-styled-jsx",
   "private": true,
-  "description": "Gatsby example site using using-styled-jsx",
+  "description": "@freiksenet/gatsby example site using using-styled-jsx",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.21.22",
-    "gatsby-plugin-styled-jsx": "^3.3.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-plugin-styled-jsx": "^3.3.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "styled-jsx": "^3.2.5"
@@ -13,8 +13,8 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

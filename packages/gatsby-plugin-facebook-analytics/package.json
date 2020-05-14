@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-plugin-facebook-analytics",
-  "description": "Gatsby plugin to add facebook analytics  onto a site",
+  "name": "@freiksenet/gatsby-plugin-facebook-analytics",
+  "description": "@freiksenet/gatsby plugin to add facebook analytics  onto a site",
   "version": "2.4.1",
   "author": "Yeison Daza <jahir045@gmail.com>",
   "bugs": {
@@ -12,20 +12,20 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-facebook-analytics#readme",
   "keywords": [
     "facebook analytics",
     "facebook sdk",
-    "gatsby",
-    "gatsby-plugin"
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin"
   ],
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "@freiksenet/gatsby": "^2.0.0"
   },
   "repository": {
     "type": "git",

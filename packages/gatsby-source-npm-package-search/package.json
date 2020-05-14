@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-npm-package-search",
+  "name": "@freiksenet/gatsby-source-npm-package-search",
   "description": "Search NPM packages and pull NPM & GitHub metadata from Algolia's NPM index",
   "version": "2.3.3",
   "author": "james.a.stack@gmail.com",
@@ -17,17 +17,17 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-plugin"
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin"
   ],
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.15"
+    "@freiksenet/gatsby": "^2.0.15"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore \"**/__tests__\"",

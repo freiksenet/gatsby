@@ -6,27 +6,27 @@
   "author": "@thorwebdev",
   "dependencies": {
     "@stripe/stripe-js": "^1.5.0",
-    "gatsby": "^2.21.22",
-    "gatsby-image": "^2.4.3",
-    "gatsby-plugin-manifest": "^2.4.2",
-    "gatsby-plugin-offline": "^2.2.10",
-    "gatsby-plugin-react-helmet": "^3.3.1",
-    "gatsby-plugin-sharp": "^2.6.2",
-    "gatsby-source-filesystem": "^2.3.1",
-    "gatsby-source-stripe": "^2.2.2",
-    "gatsby-transformer-sharp": "^2.5.2",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-image": "^2.4.3",
+    "@freiksenet/gatsby-plugin-manifest": "^2.4.2",
+    "@freiksenet/gatsby-plugin-offline": "^2.2.10",
+    "@freiksenet/gatsby-plugin-react-helmet": "^3.3.1",
+    "@freiksenet/gatsby-plugin-sharp": "^2.6.2",
+    "@freiksenet/gatsby-source-filesystem": "^2.3.1",
+    "@freiksenet/gatsby-source-stripe": "^2.2.2",
+    "@freiksenet/gatsby-transformer-sharp": "^2.5.2",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""

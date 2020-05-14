@@ -1,23 +1,23 @@
 {
-  "name": "gatsby-example-using-medium",
+  "name": "@freiksenet/gatsby-example-using-medium",
   "private": true,
   "version": "1.0.0",
-  "description": "Gatsby example site that shows how to use the Medium source plugin",
+  "description": "@freiksenet/gatsby example site that shows how to use the Medium source plugin",
   "main": "index.js",
   "author": "Robert Vogt <robert@smartive.ch>",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.21.22",
-    "gatsby-source-medium": "^2.3.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-source-medium": "^2.3.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

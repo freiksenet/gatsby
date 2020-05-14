@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-styled-jsx",
+  "name": "@freiksenet/gatsby-plugin-styled-jsx",
   "description": "Adds SSR support for styled-jsx",
   "version": "3.3.1",
   "author": "Tim Suchanek <tim.suchanek@gmail.com>",
@@ -12,19 +12,19 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-styled-jsx#readme",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin",
     "styled-jsx"
   ],
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.0",
+    "@freiksenet/gatsby": "^2.0.0",
     "styled-jsx": "^3.0.2"
   },
   "repository": {

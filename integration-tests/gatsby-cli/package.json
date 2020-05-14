@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-cli-tests",
+  "name": "@freiksenet/gatsby-cli-tests",
   "version": "1.0.0",
   "dependencies": {
     "cross-spawn": "^7.0.1",

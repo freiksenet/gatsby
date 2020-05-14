@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-source-contentful",
-  "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+  "name": "@freiksenet/gatsby-source-contentful",
+  "description": "@freiksenet/gatsby source plugin for building websites using the Contentful CMS as a data source",
   "version": "2.3.5",
   "author": "Marcus Ericsson <mericsson@gmail.com> (mericsson.com)",
   "bugs": {
@@ -17,9 +17,9 @@
     "contentful": "^7.14.4",
     "deep-map": "^1.5.0",
     "fs-extra": "^8.1.0",
-    "gatsby-core-utils": "^1.2.2",
-    "gatsby-plugin-sharp": "^2.6.3",
-    "gatsby-source-filesystem": "^2.3.3",
+    "@freiksenet/gatsby-core-utils": "^1.2.2",
+    "@freiksenet/gatsby-plugin-sharp": "^2.6.3",
+    "@freiksenet/gatsby-source-filesystem": "^2.3.3",
     "is-online": "^8.3.1",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.15",
@@ -28,18 +28,18 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-contentful#readme",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "gatsby-source-plugin"
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin",
+    "@freiksenet/gatsby-source-plugin"
   ],
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^2.12.1"
+    "@freiksenet/gatsby": "^2.12.1"
   },
   "repository": {
     "type": "git",

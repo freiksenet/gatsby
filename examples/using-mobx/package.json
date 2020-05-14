@@ -1,22 +1,22 @@
 {
-  "name": "gatsby-example-mobx",
+  "name": "@freiksenet/gatsby-example-mobx",
   "version": "1.0.0",
   "private": true,
-  "description": "Gatsby example site that shows use of mobx",
+  "description": "@freiksenet/gatsby example site that shows use of mobx",
   "author": "jonniebigodes",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
     "format": "prettier --write \"src/**/*.js\"",
     "lint": "eslint **/*.{js,jsx} --quiet -o linterrors.txt --ignore-path .gitignore"
   },
   "keywords": [
-    "gatsby",
+    "@freiksenet/gatsby",
     "mobx"
   ],
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.21.22",
+    "@freiksenet/gatsby": "^2.21.22",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.2",
     "prop-types": "^15.7.2",

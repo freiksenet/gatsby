@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-transformer-gatsby-api-calls",
+  "name": "@freiksenet/gatsby-transformer-gatsby-api-calls",
   "private": true,
   "description": "Find API calls in the repository for our documentation",
   "main": "index.js",

@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-dev-cli",
+  "name": "@freiksenet/gatsby-dev-cli",
   "description": "CLI helpers for contributors working on Gatsby",
   "version": "2.7.4",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bin": {
-    "gatsby-dev": "./dist/index.js"
+    "@freiksenet/gatsby-dev": "./dist/index.js"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
@@ -27,12 +27,12 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-dev-cli#readme",
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "main": "index.js",

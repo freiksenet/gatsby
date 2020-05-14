@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-subfont",
+  "name": "@freiksenet/gatsby-plugin-subfont",
   "version": "2.2.2",
   "description": "Runs the font delivery optimizing CLI tool subfont on the homepage of your site during the Gatsby build",
   "main": "index.js",
@@ -9,8 +9,8 @@
     "prepare": "cross-env NODE_ENV=production npm run build"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-plugin"
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin"
   ],
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
@@ -29,7 +29,7 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "engines": {

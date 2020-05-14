@@ -1,14 +1,14 @@
 {
   "name": "styleguide",
   "private": true,
-  "description": "Gatsby example site demoing living-style-guide",
+  "description": "@freiksenet/gatsby example site demoing living-style-guide",
   "author": "scott.eckenthal@gmail.com",
   "dependencies": {
     "app-root-dir": "^1.0.2",
-    "gatsby": "^2.21.22",
-    "gatsby-source-filesystem": "^2.3.1",
-    "gatsby-transformer-react-docgen": "^5.2.1",
-    "gatsby-transformer-remark": "^2.8.7",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-source-filesystem": "^2.3.1",
+    "@freiksenet/gatsby-transformer-react-docgen": "^5.2.1",
+    "@freiksenet/gatsby-transformer-remark": "^2.8.7",
     "glamor": "^2.20.40",
     "html-to-react": "^1.4.2",
     "react": "^16.4.0",
@@ -16,13 +16,13 @@
     "react-live": "^2.2.2"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

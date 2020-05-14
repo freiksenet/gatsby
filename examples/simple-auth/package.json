@@ -1,23 +1,23 @@
 {
-  "name": "gatsby-demo-simple-auth",
-  "description": "Gatsby demo of simplified authentication flow.",
+  "name": "@freiksenet/gatsby-demo-simple-auth",
+  "description": "@freiksenet/gatsby demo of simplified authentication flow.",
   "version": "1.0.0",
   "author": "Jason Lengstorf <jason@lengstorf.com>",
   "dependencies": {
-    "gatsby": "^2.21.22",
-    "gatsby-plugin-react-helmet": "^3.3.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-plugin-react-helmet": "^3.3.1",
     "prop-types": "^15.7.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-helmet": "^5.2.1"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
     "start": "npm run develop",
     "test": "echo \"Error: no test specified\" && exit 1"

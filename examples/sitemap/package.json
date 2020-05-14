@@ -1,26 +1,26 @@
 {
-  "name": "gatsby-example-sitemap",
+  "name": "@freiksenet/gatsby-example-sitemap",
   "private": true,
-  "description": "Gatsby example demonstrating the sitemap plugin.",
+  "description": "@freiksenet/gatsby example demonstrating the sitemap plugin.",
   "version": "1.0.0",
   "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
   "dependencies": {
-    "gatsby": "^2.21.22",
-    "gatsby-core-utils": "^1.2.1",
-    "gatsby-plugin-sitemap": "^2.4.2",
-    "gatsby-source-filesystem": "^2.3.1",
-    "gatsby-transformer-remark": "^2.8.7",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-core-utils": "^1.2.1",
+    "@freiksenet/gatsby-plugin-sitemap": "^2.4.2",
+    "@freiksenet/gatsby-source-filesystem": "^2.3.1",
+    "@freiksenet/gatsby-transformer-remark": "^2.8.7",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

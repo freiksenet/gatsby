@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-theme",
+  "name": "@freiksenet/gatsby-theme",
   "version": "0.1.1",
   "main": "index.js",
   "bin": {
-    "gatsby-theme": "./cli.js"
+    "@freiksenet/gatsby-theme": "./cli.js"
   },
   "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
   "license": "MIT",

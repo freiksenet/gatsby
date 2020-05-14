@@ -4,17 +4,17 @@
   "description": "Example Gatsby website using the Gatsby plugin gatsby-plugin-sass",
   "main": "index.js",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   },
   "author": "Daniel Farrell <daniel.farrell@mobelux.com>",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.21.22",
-    "gatsby-plugin-google-analytics": "^2.3.1",
-    "gatsby-plugin-offline": "^2.2.10",
-    "gatsby-plugin-sass": "^2.3.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-plugin-google-analytics": "^2.3.1",
+    "@freiksenet/gatsby-plugin-offline": "^2.2.10",
+    "@freiksenet/gatsby-plugin-sass": "^2.3.1",
     "node-sass": "^4.14.1",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",

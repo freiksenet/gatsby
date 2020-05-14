@@ -1,15 +1,15 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "@freiksenet/gatsby-starter-hello-world",
+  "description": "@freiksenet/gatsby hello world starter",
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "test": "jest --config=../jest.config.js long-term-caching/",
-    "serve": "gatsby serve"
+    "serve": "@freiksenet/gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.0.118",
+    "@freiksenet/gatsby": "^2.0.118",
     "gray-percentage": "^2.0.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"

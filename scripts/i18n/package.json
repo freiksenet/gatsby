@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-i18n-scripts",
+  "name": "@freiksenet/gatsby-i18n-scripts",
   "version": "1.0.0",
   "description": "Scripts for gatsby internationalization",
   "scripts": {

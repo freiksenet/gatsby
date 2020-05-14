@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-i18n",
+  "name": "@freiksenet/gatsby-plugin-i18n",
   "private": true,
   "description": "Create localizations of pages of a Gatsby site",
   "main": "index.js",

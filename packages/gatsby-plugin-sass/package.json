@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-plugin-sass",
-  "description": "Gatsby plugin to handle scss/sass files",
+  "name": "@freiksenet/gatsby-plugin-sass",
+  "description": "@freiksenet/gatsby plugin to handle scss/sass files",
   "version": "2.3.1",
   "author": "Daniel Farrell <daniel@mobelux.com>",
   "bugs": {
@@ -13,20 +13,20 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-sass#readme",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin",
     "sass",
     "scss"
   ],
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.0",
+    "@freiksenet/gatsby": "^2.0.0",
     "node-sass": "^4.9.0"
   },
   "readme": "README.md",

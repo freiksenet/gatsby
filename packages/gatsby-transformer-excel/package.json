@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-transformer-excel",
-  "description": "Gatsby transformer plugin for Excel spreadsheets",
+  "name": "@freiksenet/gatsby-transformer-excel",
+  "description": "@freiksenet/gatsby transformer plugin for Excel spreadsheets",
   "version": "2.4.1",
   "author": "SheetJS <dev@sheetjs.com>",
   "bugs": {
@@ -13,19 +13,19 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-excel#readme",
   "keywords": [
     "excel",
-    "gatsby",
-    "gatsby-plugin"
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin"
   ],
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.15"
+    "@freiksenet/gatsby": "^2.0.15"
   },
   "repository": {
     "type": "git",

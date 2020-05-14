@@ -1,21 +1,21 @@
 {
   "name": "using-hjson",
   "private": true,
-  "description": "Gatsby example site using hjson",
+  "description": "@freiksenet/gatsby example site using hjson",
   "author": "Remi Barraquand <dev@remibarraquand.com>",
   "dependencies": {
     "core-js": "^2.6.11",
-    "gatsby": "^2.21.22",
-    "gatsby-source-filesystem": "^2.3.1",
-    "gatsby-transformer-hjson": "^2.4.1",
+    "@freiksenet/gatsby": "^2.21.22",
+    "@freiksenet/gatsby-source-filesystem": "^2.3.1",
+    "@freiksenet/gatsby-transformer-hjson": "^2.4.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   },
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

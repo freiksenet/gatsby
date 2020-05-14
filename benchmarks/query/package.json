@@ -4,18 +4,18 @@
   "license": "MIT",
   "scripts": {
     "bench": "set -x; gatsby clean; NUM_TYPES=${NUM_PAGES:-5} NUM_PAGES=${NUM_PAGES:-5000} node --max_old_space_size=2000 node_modules/.bin/gatsby build",
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve"
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "serve": "@freiksenet/gatsby serve"
   },
   "dependencies": {
     "faker": "^4.1.0",
-    "gatsby": "^2.19.5",
+    "@freiksenet/gatsby": "^2.19.5",
     "lodash": "^4.17.15",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "gatsby-plugin-benchmark-reporting": "*"
+    "@freiksenet/gatsby-plugin-benchmark-reporting": "*"
   }
 }

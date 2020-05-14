@@ -1,23 +1,23 @@
 {
-  "name": "gatsby-example-using-video",
+  "name": "@freiksenet/gatsby-example-using-video",
   "private": true,
   "version": "1.0.0",
-  "description": "Gatsby example site that shows how to use video in a page",
+  "description": "@freiksenet/gatsby example site that shows how to use video in a page",
   "main": "index.js",
   "author": "Kyle Gill <kyle.robert.gill@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "file-loader": "^4.3.0",
-    "gatsby": "^2.21.22",
+    "@freiksenet/gatsby": "^2.21.22",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "build": "@freiksenet/gatsby build",
     "start": "npm run develop"
   }
 }

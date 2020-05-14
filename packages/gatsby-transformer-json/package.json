@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-transformer-json",
-  "description": "Gatsby transformer plugin for JSON files",
+  "name": "@freiksenet/gatsby-transformer-json",
+  "description": "@freiksenet/gatsby transformer plugin for JSON files",
   "version": "2.4.2",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
@@ -13,18 +13,18 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-json#readme",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin",
     "json"
   ],
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^2.0.15"
+    "@freiksenet/gatsby": "^2.0.15"
   },
   "repository": {
     "type": "git",

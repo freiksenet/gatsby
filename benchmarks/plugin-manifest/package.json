@@ -5,17 +5,17 @@
   "main": "index.js",
   "scripts": {
     "bench": "set -x; node index.js",
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "serve": "gatsby serve"
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
+    "serve": "@freiksenet/gatsby serve"
   },
   "author": "Alex Moon <alex.jared.moon@gmail.com",
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "gatsby-plugin-manifest": "^2.2.38"
+    "@freiksenet/gatsby-plugin-manifest": "^2.2.38"
   },
   "devDependencies": {
-    "gatsby-plugin-benchmark-reporting": "*"
+    "@freiksenet/gatsby-plugin-benchmark-reporting": "*"
   }
 }

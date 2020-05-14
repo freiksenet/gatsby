@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-transformer-toml",
-  "description": "Gatsby transformer plugin for toml",
+  "name": "@freiksenet/gatsby-transformer-toml",
+  "description": "@freiksenet/gatsby transformer plugin for toml",
   "version": "2.4.2",
   "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
   "bugs": {
@@ -14,18 +14,18 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-toml#readme",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
+    "@freiksenet/gatsby",
+    "@freiksenet/gatsby-plugin",
     "toml"
   ],
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^2.0.15"
+    "@freiksenet/gatsby": "^2.0.15"
   },
   "repository": {
     "type": "git",

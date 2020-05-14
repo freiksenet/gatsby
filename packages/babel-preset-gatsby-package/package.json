@@ -1,5 +1,5 @@
 {
-  "name": "babel-preset-gatsby-package",
+  "name": "@freiksenet/babel-preset-gatsby-package",
   "version": "0.4.1",
   "author": "Philipp Spiess <hello@philippspiess.com>",
   "repository": {

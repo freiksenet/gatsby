@@ -5,15 +5,15 @@
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve",
+    "serve": "@freiksenet/gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.21.22",
+    "@freiksenet/gatsby": "^2.21.22",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },

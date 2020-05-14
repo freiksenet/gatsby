@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-checker",
+  "name": "@freiksenet/gatsby-plugin-checker",
   "version": "1.0.0",
   "description": "Checks for Gatsby plugins on NPM without the gatsby-plugin keyword.",
   "main": "index.js",

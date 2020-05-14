@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-pokeapi",
+  "name": "@freiksenet/gatsby-source-pokeapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gatsby-node-helpers": "^0.3.0"
+    "@freiksenet/gatsby-node-helpers": "^0.3.0"
   }
 }

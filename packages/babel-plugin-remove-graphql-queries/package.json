@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-remove-graphql-queries",
+  "name": "@freiksenet/babel-plugin-remove-graphql-queries",
   "version": "2.9.1",
   "author": "Jason Quense <monastic.panic@gmail.com>",
   "repository": {
@@ -11,13 +11,13 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "babel-preset-gatsby-package": "^0.4.1",
+    "@freiksenet/babel-preset-gatsby-package": "^0.4.1",
     "cross-env": "^5.2.1"
   },
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.0",
+    "@freiksenet/gatsby": "^2.0.0",
     "graphql": "^14.1.1"
   },
   "scripts": {

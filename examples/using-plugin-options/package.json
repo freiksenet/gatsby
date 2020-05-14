@@ -3,7 +3,7 @@
   "description": "An example with the default starter using a plugin with options",
   "version": "0.1.0",
   "dependencies": {
-    "gatsby": "^2.21.22",
+    "@freiksenet/gatsby": "^2.21.22",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -13,16 +13,16 @@
     "prettier": "2.0.5"
   },
   "keywords": [
-    "gatsby"
+    "@freiksenet/gatsby"
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "@freiksenet/gatsby build",
+    "develop": "@freiksenet/gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
+    "serve": "@freiksenet/gatsby serve",
+    "clean": "@freiksenet/gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   }
 }
